@@ -1,15 +1,17 @@
-# Web Automation + CI/CD with GitHub Actions
+# 🚀 Web Automation + CI/CD with GitHub Actions
 
-This project demonstrates automated UI testing on [the-internet.herokuapp.com](https://the-internet.herokuapp.com/login) using Selenium + Java + TestNG. It is integrated with GitHub Actions to run on every push to the main branch.
+This project demonstrates automated UI testing on [the-internet.herokuapp.com](https://the-internet.herokuapp.com/login) using **Selenium + Java + TestNG**. It is integrated with **GitHub Actions** to automatically run tests on every push to the `main` branch.
 
-## 🚀 Features
-- Automates login test
-- Runs tests on push using GitHub Actions
-- Uses Maven + TestNG + Selenium
+---
 
-## 🧪 CI Status
-![Build](https://github.com/nishirajmane/web-automation-cicd/actions/workflows/test.yml/badge.svg)
+## ✨ Features
 
-## 🛠️ How to Run Locally
-```bash
-mvn clean test
+- 🔐 Automates login test with Selenium WebDriver
+- ✅ TestNG used for assertions and test flow
+- ⚙️ Maven project structure for easy dependency management
+- ☁️ GitHub Actions for continuous integration on every code push
+
+---
+
+## 📂 Project Structure
+
